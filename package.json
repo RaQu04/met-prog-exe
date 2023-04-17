@@ -1,0 +1,10 @@
+{
+  "name": "met-prog-exe",
+  "version": "1.0.0",
+  "description": "Projekt zaliczeniowy",
+  "main": "index.js",
+  "repository": "https://github.com/RaQu04/met-prog-exe.git",
+  "author": "LukaszRakowiecki <lukasz.er17@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true
+}
